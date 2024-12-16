@@ -1,0 +1,10 @@
+# Ignore data directory
+/data/
+
+# Other common ignores
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
+*.swp
