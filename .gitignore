@@ -1,5 +1,12 @@
 # Ignore data directory
 /data/
+/notebooks/tmp_notebook
+.ipynb_checkpoints/
+# *.ipynb
+# .ipynb
+/models/
+/reports/
+/scripts/
 
 # Other common ignores
 *.log
